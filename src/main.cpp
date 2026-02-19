@@ -21,4 +21,10 @@
  * - Sets LDR pin as INPUT
  * - Prints setup confirmation message
  */
+void setup() {
+    Serial.begin(9600);
+    pinMode(ldrpin, INPUT);
+    Serial.println("LDR setup");
+}
+
 

@@ -10,3 +10,7 @@
  * @author Khushi Singh
  * @date 19 Feb 2026
  */
+#include <Arduino.h>
+
+#define ldrpin A0   ///< LDR sensor connected to analog pin A0
+

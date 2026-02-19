@@ -7,7 +7,7 @@
  * into a percentage (0–100%) to represent light intensity.
  * The values are displayed on the Serial Monitor.
  *
- * @author Khushi Singh
+ * @author Khushi Singh 
  * @date 19 Feb 2026
  */
 #include <Arduino.h>
